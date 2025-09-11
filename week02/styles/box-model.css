@@ -1,5 +1,11 @@
 .callout {
-	
+
+	max-width: 600px;
+    margin: 10px auto;
+    padding: 15px;
+    border: 2px solid rgba(0, 0, 0, 0.1)
+    background-color; #247
+    color: #fff;
 }
 
 .callout img {
